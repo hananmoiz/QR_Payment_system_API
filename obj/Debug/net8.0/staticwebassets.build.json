@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ef5VdOEfJsLMJ6q6CM7HtW86UT74x7x3Vt/3ja9wa0U=",
+  "Source": "QR_Payment_System",
+  "BasePath": "_content/QR_Payment_System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

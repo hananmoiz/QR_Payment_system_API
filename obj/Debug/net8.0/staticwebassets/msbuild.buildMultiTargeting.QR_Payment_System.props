@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QR_Payment_System.props" />
+</Project>
